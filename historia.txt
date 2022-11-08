@@ -5,3 +5,5 @@ Juan tien 46 años, nacio en Chile
 Juan nació en Peñaflor
 
 Juan vive en Peñaflor
+
+juan estudia en Plazi
